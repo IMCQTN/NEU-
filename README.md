@@ -1,5 +1,5 @@
 # NEU-xinxijishushixun
-@Stradlin1 https://github.com/Stradlin1/51-mcu-labs_ws  从此仓库基础上优化完成
+@Stradlin1 ```https://github.com/Stradlin1/51-mcu-labs_ws```  从此仓库基础上优化完成
 
 本项目是东北大学(沈阳)所开设的信息技术实训课程资源,仅供参考和学习,请在下载代码后的24小时内删除,如您未履行本义务,造成的损失与我们无关.
 
@@ -7,7 +7,7 @@
 
 本项目部分内容由自建服务器提供支持,如未特别声明,我们默认此支持一直有效,我们不保证向您提供网络服务的稳定性,如您违反相关网络安全条例,我们可能会上报并封禁您的账户,我们将以提供服务的最小限度收集您的个人信息,并安全处理,请您理解.
 
-详情隐私条款:https://rocward.cn/shtin/private-policy
+详情隐私条款:```https://rocward.cn/shtin/private-policy```
 
 使用基础功能不需要收集您的个人信息.
 
@@ -20,7 +20,7 @@
 
 小车控制:
 
-LINUX/WINDOWS:您可使用chromium等浏览器打开网址https://rocward.cn/bt  添加蓝牙串口,然后通过  https://rocward.cn/cars  控制小车.如需要登陆,可直接访问https://rocward.cn/account 使用公用账户密钥  ```RWKRzSdpMGmn6mK5JqTJGhw4RLFwTSWXAtMPkHYm``` 绕过.
+LINUX/WINDOWS:您可使用chromium等浏览器打开网址```https://rocward.cn/bt```  添加蓝牙串口,然后通过  ```https://rocward.cn/cars```  控制小车.如需要登陆,可直接访问```https://rocward.cn/account``` 使用公用账户密钥  ```RWKRzSdpMGmn6mK5JqTJGhw4RLFwTSWXAtMPkHYm``` 绕过.
 
 安卓/鸿蒙:您可通过下载仓库中的.apk,安装到手机上使用.
 
