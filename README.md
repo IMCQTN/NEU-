@@ -20,7 +20,7 @@
 
 小车控制:
 
-LINUX/WINDOWS:您可使用chromium等浏览器打开网址https://rocward.cn/bt  添加蓝牙串口,然后通过  https://rocward.cn/cars  控制小车.如需要登陆,可直接访问https://rocward.cn/account  绕过.
+LINUX/WINDOWS:您可使用chromium等浏览器打开网址https://rocward.cn/bt  添加蓝牙串口,然后通过  https://rocward.cn/cars  控制小车.如需要登陆,可直接访问https://rocward.cn/account 使用公用账户密钥  RWKRzSdpMGmn6mK5JqTJGhw4RLFwTSWXAtMPkHYm 绕过.
 
 安卓/鸿蒙:您可通过下载仓库中的.apk,安装到手机上使用.
 
