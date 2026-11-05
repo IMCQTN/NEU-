@@ -1,4 +1,4 @@
-# NEU-
+# NEU-xinxijishushixun
 @Stradlin1 https://github.com/Stradlin1/51-mcu-labs_ws  从此仓库基础上优化完成
 
 本项目是东北大学(沈阳)所开设的信息技术实训课程资源,仅供参考和学习,请在下载代码后的24小时内删除,如您未履行本义务,造成的损失与我们无关.
